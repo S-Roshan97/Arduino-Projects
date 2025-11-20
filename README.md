@@ -1,7 +1,2 @@
 # Arduino-Projects
-Projects that made based on Arduino Open Source Hardware.
-
-For Example Arduino - Uno
-                    - Mega
-                    - Nano
-                    
+A collection of Arduino-based projects focused on sensors, electronics, robotics. This repository showcases practical implementations, circuit designs, and code examples useful for beginners and hobbyists building real-world embedded systems.
